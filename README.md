@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vuecli3-test
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vuecli3-test
+>>>>>>> f8dd938eea3d42c1051dd50823001144263653be
